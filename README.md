@@ -31,9 +31,10 @@
 ## Mengonversi data menjadi nilai 8-bit
 ![Screenshot (53)](https://github.com/muhamadabdulanas/UAS-Penglahan-citra/assets/115569493/b2084187-108d-426e-ab17-8854472c4380)
 
-Scirpt Code APK cluster
+## Scirpt Code APK cluster
 
 ![Screenshot (54)](https://github.com/muhamadabdulanas/UAS-Penglahan-citra/assets/115569493/6aa6945f-d02c-43bc-b170-725d3cddb3d6)
+
 ![Screenshot (55)](https://github.com/muhamadabdulanas/UAS-Penglahan-citra/assets/115569493/fdffb4c4-bc86-4411-979d-8a6f5fb10223)
 
 
