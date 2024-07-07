@@ -4,6 +4,11 @@
 ### 312210269
 ### TI.22.A2
 
+## Paper
+
+### klil:[Paper Citra.pdf](https://github.com/user-attachments/files/16117761/Paper.Citra.pdf)
+
+
 # App K-Means Clutering Segmentasi Gambar
 
 ## Imports: Mengimpor library yang diperlukan seperti streamlit, numpy, cv2 (OpenCV), Image (dari PIL), dan matplotlib untuk plotting.
@@ -36,6 +41,21 @@
 ![Screenshot (54)](https://github.com/muhamadabdulanas/UAS-Penglahan-citra/assets/115569493/6aa6945f-d02c-43bc-b170-725d3cddb3d6)
 
 ![Screenshot (55)](https://github.com/muhamadabdulanas/UAS-Penglahan-citra/assets/115569493/fdffb4c4-bc86-4411-979d-8a6f5fb10223)
+
+
+# Hasil
+
+![Screenshot (57)](https://github.com/muhamadabdulanas/UAS-Penglahan-citra/assets/115569493/d5d5203f-09e2-4051-a257-aad71b08e586)
+
+![Screenshot (56)](https://github.com/muhamadabdulanas/UAS-Penglahan-citra/assets/115569493/c64b3164-7018-4e9b-898c-892b321585c5)
+
+![Screenshot (58)](https://github.com/muhamadabdulanas/UAS-Penglahan-citra/assets/115569493/514d0abc-12a9-4cfe-be84-7ea690af4ee2)
+
+![Screenshot (59)](https://github.com/muhamadabdulanas/UAS-Penglahan-citra/assets/115569493/544a3375-97e6-4ab4-b92d-a3fe1a265633)
+
+
+
+
 
 
 
