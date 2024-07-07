@@ -5,8 +5,7 @@
 ### TI.22.A2
 
 ## Paper
-
-### klil:[Paper Citra.pdf](https://github.com/user-attachments/files/16117761/Paper.Citra.pdf)
+### klilk:[Paper Citra.pdf](https://github.com/user-attachments/files/16117761/Paper.Citra.pdf)
 
 
 # App K-Means Clutering Segmentasi Gambar
